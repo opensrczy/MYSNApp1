@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>BMS Approval</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_16192_demo_bms_a_bms_approval</name>
+        <number_ref display_value="BMS">46ff09f347d1065002dbb4fe316d43f6</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>gaurav</sys_created_by>
+        <sys_created_on>2024-04-08 05:12:46</sys_created_on>
+        <sys_id>8eff09f347d1065002dbb4fe316d433e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>BMS Approval</sys_name>
+        <sys_package display_value="Demo BMS Application" source="x_16192_demo_bms_a">929f09b347d1065002dbb4fe316d43e5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Demo BMS Application">929f09b347d1065002dbb4fe316d43e5</sys_scope>
+        <sys_update_name>sys_db_object_8eff09f347d1065002dbb4fe316d433e</sys_update_name>
+        <sys_updated_by>gaurav</sys_updated_by>
+        <sys_updated_on>2024-04-08 05:12:47</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>
